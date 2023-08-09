@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  gap: 40px;
+  padding: 20px 60px;
+  text-align: center;
+}
+
+  .bookimg {
+    width: 400px;
+    height: 550px;
+  }
+
+p{
+    font-weight: 600;
+    font-size: large;
+}
+h2{
+    text-align: center;
+}
